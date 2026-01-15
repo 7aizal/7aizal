@@ -11,7 +11,6 @@
 </p>
 
 ---
-
 ###
 
 <picture>
@@ -20,31 +19,34 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/7aizal/7aizal/output/pacman-contribution-graph.svg">
 </picture>
 
-
-### 🌐 Connect with Me
+###
 
 <div align="center">
-  <a href="mailto:fazops@hotmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/faizal-miah-56b8172bb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
-  </a>
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="60" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="60" alt="kubernetes logo"  />
 </div>
 
----
-
-
-
-## 🛠️ Tech Stack
+###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&color=FF9900&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&color=2496ED&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Terraform&logo=terraform&color=623CE4&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&color=326CE5&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Python&logo=python&color=3776AB&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Bash&logo=gnubash&color=4EAA25&style=for-the-badge" height="35"/>
+  <a href="https://www.linkedin.com/in/faizal-miah-56b8172bb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="discord.com/users/396154018671362058" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="fazmiah1@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ---
